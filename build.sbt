@@ -6,4 +6,4 @@ lazy val root = (project in file("."))
   .settings(
     name := "monads"
   )
-libraryDependencies += "org.typelevel" %% "cats-effect" % "3.4.5"
+libraryDependencies += "org.typelevel" %% "cats-effect" % "3.4.8"
